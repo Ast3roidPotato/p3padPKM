@@ -8,7 +8,7 @@ LANDING_BUTTON = "Enter"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "CSSE332 Operating System Notes"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "home"
+LANDING_PAGE = "/csse332-notes/csse332-table-of-contents.md"
 # (Optional) Site title on landing page
 LANDING_TITLE = "TMP"
 PYTHON_VERSION = "3.8"
