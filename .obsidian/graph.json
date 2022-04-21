@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"CSSE332 Notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 5396192
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.630337078651685,
+  "repelStrength": 10.7176966292135,
+  "linkStrength": 0.419101123595506,
+  "linkDistance": 430,
+  "scale": 0.48566571361348726,
+  "close": true
+}
