@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Task Management/TASKS Y1 Q3 Time.md",
+            "file": "home.md",
             "mode": "preview",
             "source": true
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task Management/TASKS Y1 Q3 Time.md",
+                "file": "home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +116,15 @@
   },
   "active": "9791a613ef17eb8a",
   "lastOpenFiles": [
+    "home.md",
+    "CSSE332 Notes/CSSE332 Table of Contents.md",
     "Task Management/TASKS Y1 Q3 Time.md",
     "Task Management/TASKS Y1 Q3 Class.md",
     "CSSE332 Notes/Class 2022-04-21.md",
     "CSSE332 Notes/Class 2022-04-08.md",
     "CSSE332 Notes/Class 2022-04-18.md",
     "CSSE332 Notes/Class 2022-04-19.md",
-    "CSSE332 Notes/CSSE332 Table of Contents.md",
     "TODO/2022-04-21.md",
-    "TODO/2022-04-20.md",
-    "TODO/2022-04-18.md"
+    "TODO/2022-04-20.md"
   ]
 }
