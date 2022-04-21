@@ -10,10 +10,11 @@ LANDING_DESCRIPTION = "CSSE332 Operating System Notes"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "home"
 # (Optional) Site title on landing page
-LANDING_TITLE = "I love obsidian-zola! 💖"
+LANDING_TITLE = "TMP"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
-REPO_URL = "git@github.com:Ast3roidPotato/p3padPKM.git"
+#REPO_URL = "git@github.com:Ast3roidPotato/p3padPKM.git"
+REPO_URL = "https://github.com/Ast3roidPotato/p3padPKM.git"
 # (Optional) Site title in navbar
 SITE_TITLE = "ConsalviCSSE332 Notes"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
