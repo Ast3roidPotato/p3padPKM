@@ -3,6 +3,8 @@ command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || tr
 publish = "public"
 
 [build.environment]
+# (Optional) Google Analytics Measurement ID
+GANALYTICS = "G-EFRBFV06MW"
 # (Optional) Text in landing page button
 LANDING_BUTTON = "Enter"
 # (Optional) Site description on landing page
@@ -27,8 +29,6 @@ TIMEZONE = "Asia/Hong_Kong"
 ZOLA_VERSION = "0.15.2"
 # (Optional, default title) How to sort notes inside each section on the right sidebar ("date" or "title"). Subsections on side bar are sorted by title, the sort order cannot be changed.
 SORT_BY = "title"
-# (Optional) Google Analytics Measurement ID
-GANALYTICS = "G-EFRBFV06MW"
 # (Optional, default true) Slugify URLs. Put "" to disable.
 SLUGIFY = "y"
 # (Optional, default true) Shows knowledge graph on home page. Put "" to disable.
