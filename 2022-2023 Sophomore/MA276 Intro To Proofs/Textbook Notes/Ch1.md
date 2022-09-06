@@ -10,4 +10,6 @@ excalidraw-default-mode: view
 
 <[[|previous]] | [[|next]]>
 
-# Ch1:
+# Ch1: Deductive Reasoning and Logical Connectives
+
+Deductive reasoning is getting to a conclusion based on the assumption that some statements called *premises* are true
