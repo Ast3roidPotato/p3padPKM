@@ -14,7 +14,7 @@ excalidraw-default-mode: view
 
 Deductive reasoning is getting to a conclusion based on the assumption that some statements called *premises* are true. 
 
-## Sentential Logic
+### Sentential Logic
 
 | Symbol | Meaning |
 | :---: | :---: |
