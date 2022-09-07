@@ -7,7 +7,10 @@
 There exists carbon-14 in samples of dead organisms. This is an existential qualifier as the sentence states says that some C_14 exists in dead organisms. It can be expressed as. $\exists x \,C(x)$ where $C(x)$ is $[x]>0$ (concentration of c14 is greater than zero)
 
 2.  What did you find was the most important point or technique from Section 2.2.
-3.  What was your muddiest point? Do you have any unanswered questions?
+
+
+
+4.  What was your muddiest point? Do you have any unanswered questions?
 
 ## 2.1
 
