@@ -8,7 +8,7 @@ There exists carbon-14 in samples of dead organisms. This is an existential qual
 
 2.  What did you find was the most important point or technique from Section 2.2.
 
-
+The quantifier negation laws seemed particularly helpful. The point in the textbook about making 
 
 4.  What was your muddiest point? Do you have any unanswered questions?
 
