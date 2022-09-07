@@ -13,7 +13,7 @@ The quantifier negation laws seemed particularly helpful. The point in the textb
 
 3.  What was your muddiest point? Do you have any unanswered questions?
 
-In the same vain as my answer to point 2, my most
+In the same vain as my answer to point 2, my muddiest point is some of the examples for the quantifier negation laws. I need more practice with them to get familiar - most of the material hasn't sunk in well so far yet.
 
 ## 2.1
 
