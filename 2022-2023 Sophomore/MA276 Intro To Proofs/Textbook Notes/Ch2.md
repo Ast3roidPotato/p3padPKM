@@ -4,7 +4,7 @@
 
 1.  Write a sentence that uses either a universal quantifier or an existential quantifier. Identify which one, then analyze the logical form of the sentence.
 
-Every elem
+There exists carbon-14 in samples of dead organisms. This is an existential qualifier as the sentance states says that some C_14 exists in dead 
 
 2.  What did you find was the most important point or technique from Section 2.2.
 3.  What was your muddiest point? Do you have any unanswered questions?
