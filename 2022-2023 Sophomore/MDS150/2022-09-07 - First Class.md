@@ -24,4 +24,7 @@
 - Highway Cleanup
 - RH Academic Enrichment Research Project
 - Clothing Drive
-- 
+- Fundraising
+	- 5k Run
+	- Pancake breakfast
+	- 
