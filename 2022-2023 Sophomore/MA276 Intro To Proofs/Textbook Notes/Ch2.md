@@ -1,5 +1,14 @@
 # Ch2
 
+**Reading Response 4:**
+
+1.  Write a sentence that uses either a universal quantifier or an existential quantifier. Identify which one, then analyze the logical form of the sentence.
+
+Every elem
+
+2.  What did you find was the most important point or technique from Section 2.2.
+3.  What was your muddiest point? Do you have any unanswered questions?
+
 ## 2.1
 
 $\forall$ is called the *universal quantifier* 
