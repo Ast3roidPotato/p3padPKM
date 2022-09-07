@@ -22,3 +22,6 @@
 - TH of RH Community Garden
 - Toiletry/food goodie bags
 - Highway Cleanup
+- RH Academic Enrichment Research Project
+- Clothing Drive
+- 
