@@ -47,5 +47,12 @@ Any indexed family $A = \{x_i \mid i \in I\}$ can be defined as $A = \{
 x \mid \exists i \in I(x = x_i)\}$
 
 
+Sets can be elements of other sets.
+
+<u>Definition 2.3.2:</u>
+
+> Suppose A is a set. the *power set* of A, denoted $\mathcal{P}(A)$, is the set whose elements are all the subsets of A. In other words,
+> $$\mathcal{p}(A) = $$
+
 
 
