@@ -52,7 +52,10 @@ Sets can be elements of other sets.
 <u>Definition 2.3.2:</u>
 
 > Suppose A is a set. the *power set* of A, denoted $\mathcal{P}(A)$, is the set whose elements are all the subsets of A. In other words,
-> $$\mathcal{p}(A) = $$
+> $$\mathcal{p}(A) = \{x \min  \subseteq A\}$$
+
+
+
 
 
 
