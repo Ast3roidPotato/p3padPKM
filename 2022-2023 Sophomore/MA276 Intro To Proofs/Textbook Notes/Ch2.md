@@ -31,9 +31,13 @@ Being perfectly honest, I was very confused about 2.3 and don't really know what
 
 2.  What did you think of the analogy between proofs and jigsaw puzzles? Can you think of any other appropriate analogies? What were your take-aways (if any) from this?  
 
-I the analogy was very good and made sense. My main take away was that there is no one way to approach a problem.
+I the analogy was very good and made sense. My main take away was that there is no one good way to approach a problem, but there are many bad ways to approach a problem.
 
 3.  What was your muddiest point? Do you have any unanswered questions?
+
+My muddiest point was 2.3 starting with:
+$A = \{x_i \mid i \in I\}$ can be defined as $A = \{ 
+x \mid \exists i \in I(x = x_i)\}$
 
 
 ## 2.3 More Operations On Sets
