@@ -23,10 +23,23 @@ $\forall P(x)$ means that P(x) is true for every value of x in the universe, mea
 
 $\exists x\,P(x)$ means that there is at least one value of x in the universe for which P(x) is true. The previous expression reads: "There exists an x such that P(x)" This is an *existential quantifier*.
 
+RR5 
+
+1.  What did you find to be the most important point or technique from Section 2.3?  
+
+
+
+2.  What did you think of the analogy between proofs and jigsaw puzzles? Can you think of any other appropriate analogies? What were your take-aways (if any) from this?  
+
+
+
+3.  What was your muddiest point? Do you have any unanswered questions?
+
 
 ## 2.3 More Operations On Sets
 
-S is the set of all perfect squares: $S = \{n^2 $
+S is the set of all perfect squares: $S = \{n^2\mid n \in \mathbb{N}\}$
 
+Indices for an index family don't have to be numbers. With S being the 
 
 
