@@ -27,7 +27,7 @@ RR5
 
 1.  What did you find to be the most important point or technique from Section 2.3?  
 
-Being perfectly honest, I was very confused about 2.3 and don't really know what's important. I'll go over the material again after 
+Being perfectly honest, I was very confused about 2.3 and don't really know what's important. But the power series 
 
 2.  What did you think of the analogy between proofs and jigsaw puzzles? Can you think of any other appropriate analogies? What were your take-aways (if any) from this?  
 
@@ -38,6 +38,8 @@ I the analogy was very good and made sense. My main take away was that there is 
 My muddiest point was 2.3 starting with:
 $A = \{x_i \mid i \in I\}$ can be defined as $A = \{ 
 x \mid \exists i \in I(x = x_i)\}$
+
+My confusion will probably be addressed in class.
 
 
 ## 2.3 More Operations On Sets
