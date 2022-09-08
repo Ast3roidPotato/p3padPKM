@@ -40,6 +40,9 @@ RR5
 
 S is the set of all perfect squares: $S = \{n^2\mid n \in \mathbb{N}\}$
 
-Indices for an index family don't have to be numbers. With S being the 
+Indices for an index family don't have to be numbers. With S being the set of all students and $m_s$ being the mother of s, for any student s, the set of all mothers of students could be written  $M = \{m_s \mid s \in S\}$.
+
+
+Any indexed family $A = \{x_i \\mid i \in I\}$ can be defined as $A = \{ \mid \exists i \in I(x = x_i)\}$
 
 
