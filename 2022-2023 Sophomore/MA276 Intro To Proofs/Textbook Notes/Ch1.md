@@ -21,10 +21,9 @@ One deductive argument is: If water is below 0 centigrade at STP, it will be fro
 
 I will either eat pizza or potatoes today.
 I will either drink water with pizza, or milk with salad.
+Therefore, I will drink milk with salid or eat potatoes.
 
-Therefore
-
-The argument is invalid because,
+The argument is invalid because, 
 
 3.  What did you find was the most important point or technique from Section 1.2?
 4.  In your own words, what is the difference between a conditional and biconditional statement?
