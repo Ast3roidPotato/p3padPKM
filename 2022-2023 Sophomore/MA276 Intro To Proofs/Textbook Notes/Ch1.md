@@ -8,7 +8,23 @@ excalidraw-default-mode: view
 
 ^TOC
 
-<[[|previous]] | [[|next]]>
+**Reading Response 2**
+
+Read Section 1.1, 1.2, & 1.5 from your text and respond to the following prompts.
+
+1.  Give an example of a valid deductive argument (not from the textbook).
+2.  Give an example of an invalid deductive argument (not from the textbook). Why is this invalid?
+3.  What did you find was the most important point or technique from Section 1.2?
+4.  In your own words, what is the difference between a conditional and biconditional statement?
+5.  What was the muddiest point? Do you have any unanswered questions?
+
+
+  **Reading Response 3**
+Read Sections 1.3 & 1.4 from your text and respond to following prompts.
+
+1.  What did you find was the most important point or technique from Section 1.3?
+2.  When reading the proof of Theorem 1.4.7, why is the conclusion $(A\cup B)\backslash B = A$ incorrect? What is imprecise about this reasoning?
+3.  What was your muddiest point? Do you have any unanswered questions?
 
 # Ch1: Deductive Reasoning and Logical Connectives
 
