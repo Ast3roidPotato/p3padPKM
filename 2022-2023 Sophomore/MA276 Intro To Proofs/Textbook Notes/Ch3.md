@@ -6,7 +6,7 @@ Read Sections 3.2 & 3.3 from your text and respond to following prompts.
 
 
 
-
+The third given had to be the culprit, because it was the only given in our new setup that wasn't in the initial list of assumptions. That seems to make sense.
 
 2.  What is the difference between existential instantiation and universal instantiation? How do we see this difference manifest in proofs?  
 
