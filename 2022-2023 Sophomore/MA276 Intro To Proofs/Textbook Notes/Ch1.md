@@ -30,9 +30,11 @@ The compact way of writing truth tables was interesting, but probably isn't some
 
 4.  In your own words, what is the difference between a conditional and biconditional statement?
 
-$P\to Q$ reads P implies Q, which means that if P is true, then Q is true. $P\iff Q$ reads P if and only if Q, means that if one of the values P,Q are true, then the other one is 
+$P\to Q$ reads P implies Q, which means that if P is true, then Q is true. $P\iff Q$ reads P if and only if Q, means that if one of the values P,Q are true, then the other one is also true.
 
 5.  What was the muddiest point? Do you have any unanswered questions?
+
+As this is being done as a re-do and we covered the material in class, I don't have any unanswered questions/muddy points for these sections.
 
 
   **Reading Response 3**
