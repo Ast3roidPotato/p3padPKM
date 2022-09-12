@@ -51,7 +51,7 @@ The reasoning is imprecise because at first glance, that might read: Add the ele
 
 3.  What was your muddiest point? Do you have any unanswered questions?
 
-As shown by the last HWK, I need more practice 
+As shown by the last HWK, I need more practice with working with set operations. (Although I was very rushed with the HWK)
 
 # Ch1: Deductive Reasoning and Logical Connectives
 
