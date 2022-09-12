@@ -14,14 +14,20 @@ Read Section 1.1, 1.2, & 1.5 from your text and respond to the following prompts
 
 1.  Give an example of a valid deductive argument (not from the textbook).
 
-One deductive argument is: If water is below 0 centigrade at STP, it will be frozen.
+One deductive argument is: If water is below 0 centigrade at STP, it will be frozen. There is water below 0 centigrade at STP, therefore it is frozen.
 
-There is water below 0 centrigrade at STP, therefore it is frozen.
+2.  Give an example of an invalid deductive argument (not from the textbook). Why is this invalid?
 
-3.  Give an example of an invalid deductive argument (not from the textbook). Why is this invalid?
-4.  What did you find was the most important point or technique from Section 1.2?
-5.  In your own words, what is the difference between a conditional and biconditional statement?
-6.  What was the muddiest point? Do you have any unanswered questions?
+If it is past 10pm, it will be dark outside.
+If it is midnight, then bogyman comes out.
+
+It is 9pm, therefore, the bogyman comes out.
+
+The argument is invalid because, even if both premises are true, the conclusion isn't true.
+
+3.  What did you find was the most important point or technique from Section 1.2?
+4.  In your own words, what is the difference between a conditional and biconditional statement?
+5.  What was the muddiest point? Do you have any unanswered questions?
 
 
   **Reading Response 3**
