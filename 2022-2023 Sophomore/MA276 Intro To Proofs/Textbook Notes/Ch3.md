@@ -14,7 +14,7 @@ Existential instantiation introduces a new variable that makes P(x) true, while 
    
 3.  What was your muddiest point? Do you have any unanswered questions?
 
-
+The proofs at the end of 3.3 that made use of instantiation were a bit confusing.
 
 
 # Chapter 3
