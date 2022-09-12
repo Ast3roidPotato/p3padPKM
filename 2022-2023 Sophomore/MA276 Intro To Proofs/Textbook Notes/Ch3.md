@@ -21,4 +21,4 @@ The third given had to be the culprit, because it was the only given in our new 
 
 It's generally easier to prove a positive statement than a negative one, so it's usually easier to express a proof in the form of $\neg P$ before proving it.
 
-A way of solving a proof, is instead to use something you know shold be false in the givens and try to find a contradiction.
+A way of solving a proof, is instead to use something you know shold be false in the givens and try to find a contradiction. This is **proof by contradiction** and is super important.
