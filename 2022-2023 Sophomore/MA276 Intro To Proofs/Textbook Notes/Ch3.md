@@ -10,7 +10,7 @@ The third given had to be the culprit, because it was the only given in our new 
 
 2.  What is the difference between existential instantiation and universal instantiation? How do we see this difference manifest in proofs?  
 
-Existential instantiation introduces a new variable that makes P(x) true, while universal instantiation says P(x) is true for all x.  The difference shows itself when you see something that you can apply existential instantiation to, you do it immediately and give that variable a new name. 
+Existential instantiation introduces a new variable that makes P(x) true, while universal instantiation says P(x) is true for all x.  The difference shows itself when you see something that you can apply existential instantiation to, you do it immediately and give that variable a new name. However, for universal instantiation, you need a specific value to plug in, so one would wait until a later point when a specific value makes sense to use.
    
 3.  What was your muddiest point? Do you have any unanswered questions?
 
