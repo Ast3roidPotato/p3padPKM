@@ -5,12 +5,18 @@ Read Sections 3.2 & 3.3 from your text and respond to following prompts.
 1.  On page 104, the book asks "How could we be sure, when we reached a contradiction, that the culprit was the third given x=3x=3?". In your own words, summarize the books response to this question. Does this make sense or do we still have questions? (_This is such a fundamental proof technique that I want to make sure we really understand the underlying machinery here._)  
 
 
-	
-1.  What is the difference between existential instantiation and universal instantiation? How do we see this difference manifest in proofs?  
+
+
+
+2.  What is the difference between existential instantiation and universal instantiation? How do we see this difference manifest in proofs?  
 
 
    
 3.  What was your muddiest point? Do you have any unanswered questions?
+
+
+
+
 # Chapter 3
 
 It's generally easier to prove a positive statement than a negative one, so it's usually easier to express a proof in the form of $\neg P$ before proving it.
