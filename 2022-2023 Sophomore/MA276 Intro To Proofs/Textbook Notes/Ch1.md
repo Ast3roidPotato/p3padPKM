@@ -47,9 +47,11 @@ The opening concept of defining functions that represent sentences, because that
 
 2.  When reading the proof of Theorem 1.4.7, why is the conclusion $(A\cup B)\backslash B = A$ incorrect? What is imprecise about this reasoning?
 
-
+The reasoning is imprecise because at first glance, that might read: Add the elements of B to A, then remove the elements of B. Which seems like A + B - B, which should equal A. But, since a union isn't quite the same thing as add, the reasoning ignores the case where A already as at least one element that B has. If A and B have any overlapping elements, the result of $(A\cup B)\backslash B = A$ will be the set A, without any elements that were in B.  Therefore, the statement $(A\cup B)\backslash B = A$ is incorrect.
 
 3.  What was your muddiest point? Do you have any unanswered questions?
+
+As shown by the last HWK, I need more practice 
 
 # Ch1: Deductive Reasoning and Logical Connectives
 
