@@ -20,3 +20,5 @@ Read Sections 3.2 & 3.3 from your text and respond to following prompts.
 # Chapter 3
 
 It's generally easier to prove a positive statement than a negative one, so it's usually easier to express a proof in the form of $\neg P$ before proving it.
+
+A way of solving a proof, is instead to use something you know shold be false in the givens and try to find a contradiction.
