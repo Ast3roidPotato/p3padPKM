@@ -19,7 +19,10 @@ One deductive argument is: If water is below 0 centigrade at STP, it will be fro
 2.  Give an example of an invalid deductive argument (not from the textbook). Why is this invalid?
 
 
-I will either eat pizza or potatoes  today 
+I will either eat pizza or potatoes today.
+I will either drink water with pizza, or milk with salad.
+
+Therefore
 
 The argument is invalid because,
 
