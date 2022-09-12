@@ -26,10 +26,11 @@ Therefore, I will drink milk with salad or eat potatoes.
 The argument is invalid because, there can be a situation where both premises are true but the conclusion is false. If I drank water with pizza, then both premises would be true, but the conclusion would be false.
 
 3.  What did you find was the most important point or technique from Section 1.2?
-The compact way of writing truth tables was interesting, but probably isn't something I'll do yet, as I feel it could get confusing. The most important part from section 1.2 was page 21 which detailed 
+The compact way of writing truth tables was interesting, but probably isn't something I'll do yet, as I feel it could get confusing. The most important part from section 1.2 was page 21 which detailed many laws of logic to use when writing proofs.
 
 4.  In your own words, what is the difference between a conditional and biconditional statement?
 
+$P\to Q$ reads P implies Q, which means that if P is true, then Q is true. $P\iff Q$ reads P if and only if Q, means that if one of the values P,Q are true, then the other one is 
 
 5.  What was the muddiest point? Do you have any unanswered questions?
 
