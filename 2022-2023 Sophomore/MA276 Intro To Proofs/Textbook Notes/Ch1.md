@@ -18,12 +18,10 @@ One deductive argument is: If water is below 0 centigrade at STP, it will be fro
 
 2.  Give an example of an invalid deductive argument (not from the textbook). Why is this invalid?
 
-If it is past 10pm, it will be dark outside.
-If it is midnight, then bogyman comes out.
 
-It is 9pm, therefore, the bogyman comes out.
+I will either eat pizza or potatoes  today 
 
-The argument is invalid because, even if both premises are true, the conclusion isn't true.
+The argument is invalid because,
 
 3.  What did you find was the most important point or technique from Section 1.2?
 4.  In your own words, what is the difference between a conditional and biconditional statement?
