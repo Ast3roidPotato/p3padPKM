@@ -8,7 +8,7 @@ excalidraw-default-mode: view
 
 ^TOC
 
-**Reading Response 2**
+### **Reading Response 2**
 
 Read Section 1.1, 1.2, & 1.5 from your text and respond to the following prompts.
 
@@ -37,11 +37,18 @@ $P\to Q$ reads P implies Q, which means that if P is true, then Q is true. $P\if
 As this is being done as a re-do and we covered the material in class, I don't have any unanswered questions/muddy points for these sections.
 
 
-  **Reading Response 3**
+### **Reading Response 3**
 Read Sections 1.3 & 1.4 from your text and respond to following prompts.
 
 1.  What did you find was the most important point or technique from Section 1.3?
+
+
+The opening concept of defining functions that represent sentences, because that marks a paradigm shift from my entire lifetime of math education of numerical only functions.
+
 2.  When reading the proof of Theorem 1.4.7, why is the conclusion $(A\cup B)\backslash B = A$ incorrect? What is imprecise about this reasoning?
+
+
+
 3.  What was your muddiest point? Do you have any unanswered questions?
 
 # Ch1: Deductive Reasoning and Logical Connectives
