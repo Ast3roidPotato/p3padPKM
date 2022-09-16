@@ -22,3 +22,7 @@ The proofs at the end of 3.3 that made use of instantiation were a bit confusing
 It's generally easier to prove a positive statement than a negative one, so it's usually easier to express a proof in the form of $\neg P$ before proving it.
 
 A way of solving a proof, is instead to use something you know shold be false in the givens and try to find a contradiction. This is **proof by contradiction** and is super important.
+
+## 3.4
+
+## 3.5
