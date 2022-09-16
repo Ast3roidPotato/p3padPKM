@@ -45,3 +45,5 @@ Treat biconditionals as two separate givens; $(P \leftrightarrow Q \equiv (P \to
 ## 3.5 - Proofs involving disjunctions
 For proving $P \lor Q$,  you know that either P, or Q must be true.
 
+One method of approaching these proofs is to assume P, then try to prove the goal, the assume Q and try to prove the goal. You don't know which assumption is correct, but at least one of them has to be. The two possibilities are called *cases*. When cases cover all of the possibilities, they are considered *exhaustive.*  Proofs can be broken up into cases as long as the cases are exhaustive. 
+
