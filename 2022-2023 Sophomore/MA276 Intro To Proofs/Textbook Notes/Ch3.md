@@ -30,7 +30,7 @@ A way of solving a proof, is instead to use something you know shold be false in
 
 1.  In $\oint 3.4$, you likely noticed the amount of *Scratch Work* that the text did prior to writing up the final *Solution* to the problem. What is the purpose of the scratch work? Why is it so important to distinguish between the two?
 
-
+The point of the scratch work is to reshape the givens and goals of the problem to be more  conducive to writing a proof. It is important to distinguish between the two so that the reader of the proof doesn't get distracted by same problem being expressed in different ways over and over again, and instead can just focus on the actual content of the proof.
 
 2.  How does the disjunctive syllogism argument help us simplify and prove statements involving $\lor$? Did we see this logical equivalence used earlier in class?
 
