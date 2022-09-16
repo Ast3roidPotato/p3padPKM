@@ -42,4 +42,6 @@ The point of the scratch work is to reshape the givens and goals of the problem 
 
 Treat biconditionals as two separate givens; $(P \leftrightarrow Q \equiv (P \to Q)\land(Q \to P))$  then prove each of the givens separately.
 
-## 3.5
+## 3.5 - Proofs involving disjunctions
+For proving $P \lor Q$,  you know that either P, or Q must be true.
+
