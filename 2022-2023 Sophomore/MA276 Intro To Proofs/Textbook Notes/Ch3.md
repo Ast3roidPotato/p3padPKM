@@ -34,9 +34,11 @@ The point of the scratch work is to reshape the givens and goals of the problem 
 
 2.  How does the disjunctive syllogism argument help us simplify and prove statements involving $\lor$? Did we see this logical equivalence used earlier in class?
 
-
+It states that $[(P\lor Q)\land \neg P] \to Q$, and allows you know that the other side of the disjunction is true if you are given,. or prove that one of the sides is false.
 
 3.  What was the muddiest point? Do you have any unanswered questions? 
+
+These topics made sense - I don't have any unanswered questions.
 
 ## 3.4
 
