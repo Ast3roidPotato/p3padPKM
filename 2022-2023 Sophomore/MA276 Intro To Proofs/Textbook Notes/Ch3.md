@@ -23,6 +23,16 @@ It's generally easier to prove a positive statement than a negative one, so it's
 
 A way of solving a proof, is instead to use something you know shold be false in the givens and try to find a contradiction. This is **proof by contradiction** and is super important.
 
+
+**Reading Response 7**
+
+ Read $\oint 3.4$ \& $\oint 3.5$.
+
+1.  In $\oint 3.4$, you likely noticed the amount of *Scratch Work* that the text did prior to writing up the final *Solution* to the problem. What is the purpose of the scratch work? Why is it so important to distinguish between the two?
+2.  How does the disjunctive syllogism argument help us simplify and prove statements involving $\lor$? Did we see this logical equivalence used earlier in class?
+
+3.  What was the muddiest point? Do you have any unanswered questions? 
+
 ## 3.4
 
 ## 3.5
