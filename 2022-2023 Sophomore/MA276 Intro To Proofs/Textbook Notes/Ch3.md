@@ -63,6 +63,9 @@ An existence and uniqueness proof is a proof that shows that there is only one v
 
 
 
+
+
+
 3.  (_Optional_) What was the muddiest point? Do you have any unanswered questions?
 
 ## 3.6 - Existence and Uniqueness Proofs
