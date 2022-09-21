@@ -49,3 +49,27 @@ For proving $P \lor Q$,  you know that either P, or Q must be true.
 
 One method of approaching these proofs is to assume P, then try to prove the goal, the assume Q and try to prove the goal. You don't know which assumption is correct, but at least one of them has to be. The two possibilities are called *cases*. When cases cover all of the possibilities, they are considered *exhaustive.*  Proofs can be broken up into cases as long as the cases are exhaustive. 
 
+
+
+**Reading Response 8**
+Read Sections 3.6 & 3.7 from your text and respond to following prompts.
+
+
+1.  In your own words, what is an existence and uniqueness proof?
+
+An existence and uniqueness proof is a proof that shows that there is only one valid value in a universe that satisfies a proposition.
+
+2.  One the first day of class we "proved" Theorem 3.7.2 (omitting some details). After reading through the books proof, do you feel you understand the argument better? Have you noticed any growth in your ability to read and understand proofs that are presented to you?
+
+
+
+3.  (_Optional_) What was the muddiest point? Do you have any unanswered questions?
+
+## 3.6 - Existence and Uniqueness Proofs
+
+
+
+## 3.7 - More Examples of Proofs
+
+
+
