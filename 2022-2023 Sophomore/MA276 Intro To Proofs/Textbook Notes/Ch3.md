@@ -61,7 +61,7 @@ An existence and uniqueness proof is a proof that shows that there is only one v
 
 2.  One the first day of class we "proved" Theorem 3.7.2 (omitting some details). After reading through the books proof, do you feel you understand the argument better? Have you noticed any growth in your ability to read and understand proofs that are presented to you?
 
-
+I kind of understand the argument better, but I feel like my proofs understanding semi-plateaued when it comes to internalizing the content, and now I "know" some of the material  
 
 
 
