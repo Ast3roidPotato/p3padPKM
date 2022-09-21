@@ -61,12 +61,11 @@ An existence and uniqueness proof is a proof that shows that there is only one v
 
 2.  One the first day of class we "proved" Theorem 3.7.2 (omitting some details). After reading through the books proof, do you feel you understand the argument better? Have you noticed any growth in your ability to read and understand proofs that are presented to you?
 
-I kind of understand the argument better, but I feel like my proofs understanding semi-plateaued when it comes to internalizing the content, and now I "know" some of the material  
-
-
-
+I kind of understand the argument better, but I feel like my proofs understanding semi-plateaued when it comes to internalizing the content, and now I "know" some of the more recent material, but I don't fully understand it yet. 
 
 3.  (_Optional_) What was the muddiest point? Do you have any unanswered questions?
+
+Nothing in particular  - the topics covered are just a bit hazy as a whole.
 
 ## 3.6 - Existence and Uniqueness Proofs
 too tired. no note.
