@@ -9,7 +9,7 @@ I agree with it in theory, and for other subjects this I think that statement ho
 
 2.  After reading the proof of Theorem 4.2.5, do you have any unanswered questions about any of the logical statements presented?
 
-
+With the new topic, I need some more time for it to sink in. So yes, but they aren't formed properly yet.
 
 
 
