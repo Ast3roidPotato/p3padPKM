@@ -22,7 +22,7 @@ Read Sections 4.3 and 4.4 and respond to the following prompts.
 
 1.  In Section 4.3, the text introduced a way to visualize relations. Was this helpful? Are there ways we could visualize other concepts covered in this course?
 
-
+	The visualizations made sense, but only would be helpful if the relations get to be large and complicated enough that it's unwieldly to write them out.
 
 2.  Give an example of a partial order on a set A (not from the book). Does it have a minimal element? If so, what is it?
 
