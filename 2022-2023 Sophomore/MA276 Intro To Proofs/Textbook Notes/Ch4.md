@@ -16,8 +16,22 @@ With the new topic, I need some more time for it to sink in. So yes, but they ar
 3.  (_Optional_) What was the muddiest point? Do you have any unanswered questions?
 
 
+**Reading Response 10**
+  
+Read Sections 4.3 and 4.4 and respond to the following prompts.
+
+1.  In Section 4.3, the text introduced a way to visualize relations. Was this helpful? Are there ways we could visualize other concepts covered in this course?
+
+
+
+2.  Give an example of a partial order on a set A (not from the book). Does it have a minimal element? If so, what is it?
+
+
+
+3.  (_Optional_) What was the muddiest point? Do you have any unanswered questions?
+
 
 # Ch4 
 
-## 4.1 Ordered Pairs and Cartesian Products 
+
 
