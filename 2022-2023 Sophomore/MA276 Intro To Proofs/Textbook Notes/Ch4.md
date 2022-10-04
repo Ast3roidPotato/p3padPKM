@@ -40,10 +40,12 @@ The set of harmonics (including subharmonics) of a note is an equivalence relati
 
 2.  After reading the proof of Theorem 4.5.4, consider the following questions. Was is helpful to prove the Lemma outside of the Theorem to simplify the proof? Were you able to understand the proof better? Why is this Theorem an important result?
 
-I think it's helpful. It reminds me of breaking apart long functions in a piece of code so that the code is more readable and modular. The lemma is important because it 
+I think it's helpful. It reminds me of breaking apart long functions in a piece of code so that the code is more readable and modular. The theorem is important because it shows that the set of all equivalence sets only *partitions* set A, with each partition being disjoint from one another.
 
 3.  _(Optional)_ What was the muddiest point? Do you have any unanswered questions?
 
 
 # Ch4 
+
+$A/R$ is the set of all equivalence classes of relation $A$ and set $R$.
 
