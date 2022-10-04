@@ -36,7 +36,7 @@ Read Section 4.5 and respond to the following prompts:
 
 1.  Give an example of an equivalence relation that is not from the book.
 
-The set of harmonics (including subharmonics) of a pitch is an equivalence relation. 
+The set of harmonics (including subharmonics) of a note is an equivalence relation. The root note is the 0th harmonic of itself, which makes the relation reflexive. Since subharmonics are included, the set is symmetric. Since the 4th harmonic of a note is also related to the 1st, 2nd, and 3rd, the relation is transitive.
 
 2.  After reading the proof of Theorem 4.5.4, consider the following questions. Was is helpful to prove the Lemma outside of the Theorem to simplify the proof? Were you able to understand the proof better? Why is this Theorem an important result?
 
