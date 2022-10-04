@@ -40,13 +40,10 @@ The set of harmonics (including subharmonics) of a note is an equivalence relati
 
 2.  After reading the proof of Theorem 4.5.4, consider the following questions. Was is helpful to prove the Lemma outside of the Theorem to simplify the proof? Were you able to understand the proof better? Why is this Theorem an important result?
 
-
+I think it's helpful. It reminds me of breaking apart long functions in a piece of code so that the code is more readable and modular. 
 
 3.  _(Optional)_ What was the muddiest point? Do you have any unanswered questions?
 
 
 # Ch4 
-
-
-
 
