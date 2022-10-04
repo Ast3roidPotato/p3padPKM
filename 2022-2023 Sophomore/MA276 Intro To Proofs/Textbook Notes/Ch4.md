@@ -36,7 +36,7 @@ Read Section 4.5 and respond to the following prompts:
 
 1.  Give an example of an equivalence relation that is not from the book.
 
-
+The set of harmonics (including subharmonics) of a pitch is an equivalence relation. 
 
 2.  After reading the proof of Theorem 4.5.4, consider the following questions. Was is helpful to prove the Lemma outside of the Theorem to simplify the proof? Were you able to understand the proof better? Why is this Theorem an important result?
 
