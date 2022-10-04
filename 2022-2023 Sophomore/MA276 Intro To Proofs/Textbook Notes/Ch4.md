@@ -30,6 +30,20 @@ Read Sections 4.3 and 4.4 and respond to the following prompts.
 
 3.  (_Optional_) What was the muddiest point? Do you have any unanswered questions?
 
+**Reading Response 11**
+
+Read Section 4.5 and respond to the following prompts:
+
+1.  Give an example of an equivalence relation that is not from the book.
+
+
+
+2.  After reading the proof of Theorem 4.5.4, consider the following questions. Was is helpful to prove the Lemma outside of the Theorem to simplify the proof? Were you able to understand the proof better? Why is this Theorem an important result?
+
+
+
+3.  _(Optional)_ What was the muddiest point? Do you have any unanswered questions?
+
 
 # Ch4 
 
