@@ -12,7 +12,7 @@ One-to-one means that in function f mapping A to B, there is at most one element
 
 onto means  that every element in B is being pointed to be at least 1 element of a.
 
-Bijective means that every elemtn 
+Bijective means that every element in A is mapped to an element in B and every element in B is mapped to by an element in A.
 
 3. (Optional) What was the muddiest point? Do you have any unanswered questions?
 
