@@ -3,7 +3,7 @@ RR12. Read ∮ 5.1 and ∮ 5.2.
 seen functions described this way? Does it help you better understand what a function  
 is?  
 
-I've see
+I've seen a similar description for continuous continuous functions, where they have to pass the vertical line test, where at any given position of a vertical line, there is only 1 point of intersection between the vertical line and the graph of a function.
 
 2. In your own words, describe what it means for a function to be one-to-one, onto and  
 bijective.  
