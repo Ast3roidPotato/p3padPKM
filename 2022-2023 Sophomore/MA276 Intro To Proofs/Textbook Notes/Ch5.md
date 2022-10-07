@@ -8,7 +8,7 @@ I've seen a similar description for continuous continuous functions, where they 
 2. In your own words, describe what it means for a function to be one-to-one, onto and  
 bijective.  
 
-
+One-to-one means that in function f mapping 
 
 3. (Optional) What was the muddiest point? Do you have any unanswered questions?
 
