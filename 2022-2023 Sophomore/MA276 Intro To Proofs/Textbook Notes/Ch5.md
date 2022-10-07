@@ -10,7 +10,9 @@ bijective.
 
 One-to-one means that in function f mapping A to B, there is at most one element in a related to each element in b.
 
-onto means 
+onto means  that every element in B is being pointed to be at least 1 element of a.
+
+Bijective means that every elemtn 
 
 3. (Optional) What was the muddiest point? Do you have any unanswered questions?
 
