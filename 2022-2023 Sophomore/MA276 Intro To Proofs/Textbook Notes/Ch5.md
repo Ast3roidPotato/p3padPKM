@@ -27,8 +27,7 @@ I understand the principle of it, and reminds of question 2 in reading response 
 
 2.  In your own words, what is the difference between a set being closed and the closure of a set?
 
-
-
+A set being 
 
 3.  (_Optional_) What was the muddiest point? Do you have any unanswered questions?
 
