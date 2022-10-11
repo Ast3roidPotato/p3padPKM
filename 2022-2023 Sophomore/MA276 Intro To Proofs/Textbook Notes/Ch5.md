@@ -16,4 +16,8 @@ Bijective means that every element in A is mapped to an element in B and every e
 
 3. (Optional) What was the muddiest point? Do you have any unanswered questions?
 
+
+
+
+
 # Ch5 
