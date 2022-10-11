@@ -27,7 +27,9 @@ I understand the principle of it, and reminds of question 2 in reading response 
 
 2.  In your own words, what is the difference between a set being closed and the closure of a set?
 
-A set being 
+A set being closed, means that there is a relation/operation that can be performed on the set where the range is contained in the set.
+
+A closure of a set
 
 3.  (_Optional_) What was the muddiest point? Do you have any unanswered questions?
 
