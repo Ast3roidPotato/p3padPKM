@@ -29,9 +29,7 @@ I understand the principle of it, and reminds of question 2 in reading response 
 
 A set being closed, means that there is a relation/operation that can be performed on the set where the range is contained in the set.
 
-A closure of a set is the subset 
-
-3.  (_Optional_) What was the muddiest point? Do you have any unanswered questions?
+A closure of a set C is the smallest superset that makes set A closed under function f.
 
 
 
