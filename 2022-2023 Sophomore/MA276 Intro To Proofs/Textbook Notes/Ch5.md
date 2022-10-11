@@ -23,7 +23,7 @@ Read Sections 5.3 & 5.4 and respond to the following prompts:
 
 1.  In Section 5.3, the book proves Theorem 5.3.4 by proving a circle of implications. What about the statement of the Theorem allows us to structure our proof this way? Do you understand this type of proof?
 
-I understand the principle of it, and reminds of 
+I understand the principle of it, and reminds of question 2 in reading response 11 that asked about breaking apart a proof by proving intermediate theorems.
 
 2.  In your own words, what is the difference between a set being closed and the closure of a set?
 
