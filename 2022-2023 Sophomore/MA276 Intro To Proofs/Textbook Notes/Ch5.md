@@ -17,6 +17,19 @@ Bijective means that every element in A is mapped to an element in B and every e
 3. (Optional) What was the muddiest point? Do you have any unanswered questions?
 
 
+RR13   
+
+Read Sections 5.3 & 5.4 and respond to the following prompts:
+
+1.  In Section 5.3, the book proves Theorem 5.3.4 by proving a circle of implications. What about the statement of the Theorem allows us to structure our proof this way? Do you understand this type of proof?
+
+
+
+2.  In your own words, what is the difference between a set being closed and the closure of a set?
+
+
+
+3.  (_Optional_) What was the muddiest point? Do you have any unanswered questions?
 
 
 
