@@ -1,4 +1,6 @@
-RR12. Read ∮ 5.1 and ∮ 5.2.  
+**RR12**
+
+Read ∮ 5.1 and ∮ 5.2.  
 1. In ∮ 5.1, the book describes functions as a relation with an added restriction. Have you  
 seen functions described this way? Does it help you better understand what a function  
 is?  
@@ -17,7 +19,7 @@ Bijective means that every element in A is mapped to an element in B and every e
 3. (Optional) What was the muddiest point? Do you have any unanswered questions?
 
 
-RR13   
+**RR13**   
 
 Read Sections 5.3 & 5.4 and respond to the following prompts:
 
