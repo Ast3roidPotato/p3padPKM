@@ -1,0 +1,16 @@
+-  [x] Finish Project 2 Verification 
+-  [x] Linear Lights Out
+-  [x] Email Dr. Song about hwk1, project 1 verification and code - include project 2 stuff
+-  [x] ECE 230 HWK 4
+-  [x] Figure out what to do for tech-com
+-  [x] ECE230 Lesson 5-1
+-  [x] ECE230 Quiz 5-1
+-  [x] Complete ECE230exercise 4-3
+-  [ ] Build Circuit for music box project ECE230
+-  [x] Do the things needed for tech-com
+	-  [x] Read Through Course Slides - take notes
+	-  [x] Read Chapter 3 - take notes
+	-  [x] Take personality assessment over the weekend and save results
+	-  [x] Do Engagement Email
+-  [ ] Start working on combinatorics hwk
+-  [ ] Review material combinatorics material covered Thursday/Friday

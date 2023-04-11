@@ -1,0 +1,5 @@
+- [x] Friday AC Circuits HWK
+- [x] Proofs Reading Response 7
+- [ ] Start Proofs HWK 4
+- [ ] Do One entry for Art Participation Assignment
+- [ ] Watch Art videos

@@ -1,0 +1,19 @@
+- [x] Put in ECE230 Assignments
+- [x] CSSE280 Finish FIGMA Mock for NEXUS
+	- [x] Scanner Page
+	- [x] DocView Page
+- [x] ECE230 Project
+	- [x] Demo Ready
+	- [x] Submit Code/Verification
+- [x] ECE230 4.2 Assignments
+	- [x] Lesson
+	- [x] Quiz
+	- [x] Exercise
+ - [x] ECE230 5.2 Assignments
+	- [x] Lesson
+	- [x] Quiz
+	- [x] Exercise
+- [x] Tech Com - Complete Technical Problem Doc
+- [x] Tech Com - DO class replacement activity for Friday virtual class
+- [x] CSSE280 - Complete Firebase Auth Follow Along
+- [ ] Start Combinatorics HWK8 EARLY PLEASE!!!

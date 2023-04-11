@@ -1,0 +1,4 @@
+- [x] Do ECE204 Prelab
+- [ ] Fix ECE233
+- [x] Do ECE233 HWK Early
+- [ ] Do ECE204 Thursday and Friday HWK TURN IN EARLY
