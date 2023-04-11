@@ -1,0 +1,23 @@
+- [ ] AC Circuits
+	- [ ] HWK21 - Mon
+	- [x] Check Pre-Lab - Wed
+	- [ ] HWK22 - Thurs
+- [ ] Art
+	- [x] Sketchbook Assignment 6
+	- [x] Participation 4
+	- [ ] Finish Old Sketchbook Assignments
+		- [ ] Furniture 
+		- [ ] Cross Contour
+		- [ ] Contour
+- [ ] Proofs
+	- [ ] Week 8 Revisions - Sunday
+	- [ ] Reading Response 17 - Tues
+	- [ ] HWK 14 - Tues
+- [ ] Digital
+	- [x] Lab06 Checkpoint 1 - Mon
+	- [x] Lab06 Demo - Wed
+	- [x] HWK9 - Thurs
+- [x] MDS150
+	- [x] High Performing Teams Reflection - Wed
+- [ ] Other
+	- [ ] Email Dr. Bear about Lunch

@@ -1,0 +1,6 @@
+- [x] AC Circuits HWK
+	- [x] Thursday
+	- [x] Friday
+- [x] Finish digital HWK 2
+- [x] Do the ECE233 Lab Writeup
+- [x] Finish Mapping For Art
